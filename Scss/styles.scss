@@ -1,8 +1,3 @@
-$color: red!default;
-$color2: blue!default;
-$color4: green!default;
+@import "lib/variables";
 
-.div{
-    background-color: $color2;
-}
 @import "tablas";
